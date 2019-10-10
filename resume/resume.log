@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.4.14)  17 APR 2019 14:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2019.4.14)  10 OCT 2019 21:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -334,30 +334,31 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
 
-Overfull \hbox (9.08282pt too wide) in paragraph at lines 56--57
+Overfull \hbox (9.08282pt too wide) in paragraph at lines 57--58
 []\OT1/cmr/m/n/10 Attended work-shop on In-ter-net Of Things or-ga-nized by CET
 PA IN-FOTECH
  []
 
 [2]
-Overfull \hbox (0.49323pt too wide) in paragraph at lines 93--94
+Overfull \hbox (0.49323pt too wide) in paragraph at lines 95--96
 []\OT1/cmr/m/n/10 Won \OT1/cmr/bx/n/10 Eyantra-- the biggest robotics com-pe-ti
 -tion \OT1/cmr/m/n/10 held in \OT1/cmr/bx/n/10 IIT - BOM-
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
-[3] [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
+[3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
  (./resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 108.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 108.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 38F53DEB9E4BC3EA397694366EBB4F8D;643.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
- 5947 strings out of 493029
- 85750 string characters out of 6136234
+ 5948 strings out of 493029
+ 85757 string characters out of 6136234
  177789 words of memory out of 5000000
  9419 multiletter control sequences out of 15000+600000
  5914 words of font info for 22 fonts, out of 8000000 for 9000
@@ -369,10 +370,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (4 pages, 105382 bytes).
+Output written on resume.pdf (4 pages, 105901 bytes).
 PDF statistics:
- 144 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
+ 145 PDF objects out of 1000 (max. 8388607)
+ 129 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
  102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
